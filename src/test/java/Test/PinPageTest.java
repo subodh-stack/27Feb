@@ -50,6 +50,12 @@ public class PinPageTest {
   @Test
   public void newTest() {
 	  System.out.println("Hello");
+	  System.out.println("Test");
+  }
+  
+  @Test
+  public void demo() {
+	  System.out.println("Demo");
   }
   
  
