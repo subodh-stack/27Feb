@@ -47,5 +47,10 @@ public class PinPageTest {
 	  
   }
   
+  @Test
+  public void newTest() {
+	  System.out.println("Hello");
+  }
+  
  
 }
