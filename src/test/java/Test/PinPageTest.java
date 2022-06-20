@@ -45,8 +45,12 @@ public class PinPageTest {
 	  String requiredTitle ="Dashboard / Kite";
 	  Assert.assertEquals(homepage,requiredTitle);
 	  
-		
-		
-	  
   }
+  
+  @Test
+  public void newTest() {
+	  System.out.println("Hello");
+  }
+  
+ 
 }
